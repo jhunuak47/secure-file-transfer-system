@@ -1,0 +1,13 @@
+I am also exploring various encryption techniques to ensure the security of file transfers. 
+Understanding the importance of data integrity and confidentiality is crucial in today's digital age. 
+By learning these techniques, I aim to protect sensitive information from unauthorized access and potential breaches. 
+This journey into secure file transfer is both challenging and rewarding, and I am excited to apply these skills in real-world scenarios.
+
+I am also exploring various encryption techniques to ensure the security of file transfers. 
+Understanding the importance of data integrity and confidentiality is crucial in today's digital age. 
+By learning these techniques, I aim to protect sensitive information from unauthorized access and potential breaches. 
+This journey into secure file transfer is both challenging and rewarding, and I am excited to apply these skills in real-world scenarios.
+
+This project was created by NAVIN KUMAR PAL. The motivation behind this project is to delve into the realm of secure file transfers and to develop a robust understanding of encryption techniques.
+By doing so, I aim to contribute to the field of cybersecurity and ensure that sensitive information remains protected from unauthorized access.
+
